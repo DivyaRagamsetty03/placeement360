@@ -1,21 +1,3 @@
-<!--
-========================================================================
-PLACEMENT360 — NOTEPAD-FRIENDLY + SECTIONED SOURCE CODE
-========================================================================
-Use Ctrl+F in Notepad and search for "SECTION" to jump between parts.
-
-HTML      = page structure
-<style>   = CSS / visual design
-<script>  = JavaScript functionality
-
-IMPORTANT:
-The body JavaScript has been parsed and reprinted with readable
-indentation. Objects and arrays are expanded where practical, and
-major functions/modules have visible comment headings.
-
-The code is not executed while creating this TXT file.
-========================================================================
--->
 
 <!doctype html>
 <html lang="en">
